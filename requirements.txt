@@ -1,0 +1,15 @@
+
+asyncpg==0.28.0
+
+Jinja2==3.0.3
+
+Markdown==3.4.3
+
+requests==2.25.1
+sanic @ file:///root/sanic
+sanic-ext==23.3.0
+sanic-jinja2==2022.11.11
+sanic-routing==22.8.0
+
+SQLAlchemy==1.4.49
+sqlalchemy-aio==0.17.0
